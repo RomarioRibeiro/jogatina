@@ -54,7 +54,7 @@ h1 {
  .menu a {
      padding: 52px;
      text-decoration: none;
-     color: #152D35;
+     color: #CDF0EA;
  }
 
  .menu a:hover {
@@ -68,4 +68,16 @@ h1 {
  .efeito{
      background-color: #334756;
      padding: 80px 0 80px 0;
+ }
+ .container img{
+     border-radius: 15px;
+ }
+ .container button{
+     width: 150px;
+     height: 30px;
+     background-color: #87A8A4;
+     cursor: pointer;
+     border-radius: 20px;
+     border-bottom: #87A8A4;
+
  }
