@@ -54,12 +54,12 @@ h1 {
  .menu a {
      padding: 52px;
      text-decoration: none;
-     color: #444444;
+     color: #152D35;
  }
 
  .menu a:hover {
-     background-color:#444444;
-     color: #334756;
+     background-color:#334756;
+     color: #152D35;
  }
  .container{
      width: 960px;
