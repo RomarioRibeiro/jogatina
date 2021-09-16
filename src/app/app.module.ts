@@ -6,11 +6,13 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { PrimengModule } from './primeng.module';
 import { HeaderComponent } from './shared/layout/header/header/header.component';
+import { ComunidadeComponent } from './shared/comunidade/comunidade/comunidade.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    HeaderComponent
+    HeaderComponent,
+    ComunidadeComponent
   ],
   imports: [
     BrowserAnimationsModule,
